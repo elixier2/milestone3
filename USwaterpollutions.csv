@@ -1,0 +1,843 @@
+City, Region, WaterPollution
+New York City," ""New York""",49.5049505
+"Washington, D.C."," ""District of Columbia""",49.10714286
+San Francisco," ""California""",43
+Los Angeles," ""California""",61.29943503
+Alexandria," ""Virginia""",46.15384615
+Boston," ""Massachusetts""",32.91139241
+Saginaw," ""Michigan""",70
+San Antonio," ""Texas""",50.67567568
+Chicago," ""Illinois""",53.62068966
+Pittsburgh," ""Pennsylvania""",59.61538462
+Philadelphia," ""Pennsylvania""",55.64516129
+Seattle," ""Washington""",36.94852941
+Baltimore," ""Maryland""",64.13043478
+Huntington Beach," ""California""",65.625
+Portland," ""Oregon""",36.34259259
+Indianapolis," ""Indiana""",50.65789474
+Miami," ""Florida""",47.36842105
+Detroit," ""Michigan""",52.08333333
+San Diego," ""California""",52.36486486
+San Jose," ""California""",41.25
+Denver," ""Colorado""",36.83035714
+Houston," ""Texas""",57.09459459
+Phoenix," ""Arizona""",47.64705882
+Dallas," ""Texas""",42.69230769
+Fort Worth," ""Texas""",51.13636364
+Austin," ""Texas""",43.5
+El Paso," ""Texas""",44.64285714
+Memphis," ""Tennessee""",48.68421053
+Charlotte," ""North Carolina""",31.57894737
+Columbus," ""Ohio""",62.5
+Jacksonville," ""Florida""",66.21621622
+Long Beach," ""California""",32.69230769
+Laredo," ""Texas""",100
+Oakland," ""California""",33.33333333
+Sacramento," ""California""",39.89361702
+Honolulu," ""Hawaii""",41.51785714
+Providence," ""Rhode Island""",59.61538462
+Brooklyn," ""New York""",33.65384615
+Tucson," ""Arizona""",39.65517241
+Aurora," ""Illinois""",25
+Nashville," ""Tennessee""",42.94871795
+Salt Lake City," ""Utah""",41.66666667
+Atlanta," ""Georgia""",46.57534247
+Las Vegas," ""Nevada""",49.69135802
+Albany," ""New York""",31.25
+Harrisburg," ""Pennsylvania""",37.5
+Trenton," ""New Jersey""",100
+Newark," ""New Jersey""",62.5
+Jersey City," ""New Jersey""",60
+Keller," ""Texas""",25
+Davenport," ""Iowa""",53.57142857
+Jackson," ""Mississippi""",28.57142857
+Augusta," ""Maine""",100
+Baton Rouge," ""Louisiana""",40.625
+Lansing," ""Michigan""",41.66666667
+Concord," ""New Hampshire""",15
+Lincoln," ""Nebraska""",27.5
+Annapolis," ""Maryland""",47.22222222
+Springfield," ""Illinois""",62.5
+Saint Paul," ""Minnesota""",30
+Montgomery," ""Alabama""",56.25
+Boca Raton," ""Florida""",34.61538462
+Juneau," ""Alaska""",25
+Burlington," ""Vermont""",30
+Allen," ""Texas""",12.5
+Las Cruces," ""New Mexico""",33.33333333
+Little Rock," ""Arkansas""",22.05882353
+Hartford," ""Connecticut""",50
+Dover," ""Delaware""",50
+Fargo," ""North Dakota""",0
+Grand Forks," ""North Dakota""",37.5
+New Orleans," ""Louisiana""",72.85714286
+Dayton," ""Ohio""",33.33333333
+Albuquerque," ""New Mexico""",39.70588235
+Oklahoma City," ""Oklahoma""",31.73076923
+Boise," ""Idaho""",32.5
+Minneapolis," ""Minnesota""",33.57142857
+Tallahassee," ""Florida""",41.66666667
+Bismarck," ""North Dakota""",50
+Cleveland," ""Ohio""",54.54545455
+Milwaukee," ""Wisconsin""",43.29268293
+Columbia," ""South Carolina""",52.27272727
+Santa Fe," ""New Mexico""",38.63636364
+Helena," ""Montana""",50
+Cheyenne," ""Wyoming""",0
+Anchorage," ""Alaska""",18.75
+Des Moines," ""Iowa""",38.33333333
+Springfield," ""Oregon""",50
+Norman," ""Oklahoma""",25
+Buffalo," ""New York""",36.95652174
+Carson City," ""Nevada""",50
+Topeka," ""Kansas""",56.25
+Raleigh," ""North Carolina""",31.25
+Kansas City," ""Missouri""",44.51219512
+Olympia," ""Washington""",18.75
+Cincinnati," ""Ohio""",43.10344828
+Omaha," ""Nebraska""",32.35294118
+Fresno," ""California""",78.125
+Richmond," ""Virginia""",27.63157895
+Louisville," ""Kentucky""",38.79310345
+Madison," ""Wisconsin""",40.32258065
+Salem," ""Oregon""",17.85714286
+Ketchikan," ""Alaska""",50
+Charleston," ""West Virginia""",50
+Tulsa," ""Oklahoma""",38.63636364
+Santa Monica," ""California""",54.16666667
+Palo Alto," ""California""",50
+Green Bay," ""Wisconsin""",50
+Charleston," ""South Carolina""",57.69230769
+Dover," ""New Hampshire""",50
+Nashua," ""New Hampshire""",0
+Manchester," ""New Hampshire""",38.88888889
+Oak Ridge," ""Tennessee""",50
+San Luis Obispo," ""California""",45.83333333
+Cambridge," ""Massachusetts""",21.875
+West Hartford," ""Connecticut""",6.25
+New Haven," ""Connecticut""",37.5
+New Bedford," ""Massachusetts""",75
+Stamford," ""Connecticut""",54.16666667
+Bridgeport," ""Connecticut""",66.66666667
+Waterbury," ""Connecticut""",0
+Worcester," ""Massachusetts""",75
+Pittsfield," ""Massachusetts""",100
+Fall River," ""Massachusetts""",50
+Newton," ""Massachusetts""",50
+Danbury," ""Connecticut""",0
+Somerville," ""Massachusetts""",12.5
+Portland," ""Maine""",42.85714286
+Rochester," ""New York""",47.91666667
+Irvine," ""California""",33.33333333
+Fremont," ""California""",15
+Scottsdale," ""Arizona""",28.84615385
+Reno," ""Nevada""",28.84615385
+Winston-Salem," ""North Carolina""",5
+Durham," ""North Carolina""",39.58333333
+Norfolk," ""Virginia""",75
+Orlando," ""Florida""",48.38709677
+Greensboro," ""North Carolina""",31.81818182
+Toledo," ""Ohio""",75
+Stockton," ""California""",71.875
+Lexington," ""Kentucky""",40
+Corpus Christi," ""Texas""",68.18181818
+Riverside," ""California""",53.33333333
+Santa Ana," ""California""",55
+Aurora," ""Colorado""",33.33333333
+Anaheim," ""California""",33.33333333
+Tampa," ""Florida""",45.93023256
+Bakersfield," ""California""",68.47826087
+Colorado Springs," ""Colorado""",38.39285714
+Virginia Beach," ""Virginia""",36.66666667
+Mesa," ""Arizona""",31.25
+Wichita," ""Kansas""",33.82352941
+Henderson," ""Nevada""",35
+Fort Wayne," ""Indiana""",43.75
+Chula Vista," ""California""",75
+Chandler," ""Arizona""",45
+Lubbock," ""Texas""",34.09090909
+Garland," ""Texas""",50
+Garden Grove," ""California""",0
+Gilbert," ""Arizona""",0
+Tempe," ""Arizona""",46.42857143
+Peoria," ""Arizona""",15
+Surprise," ""Arizona""",0
+Plano," ""Texas""",32.14285714
+Irving," ""Texas""",37.5
+Amarillo," ""Texas""",53.125
+Brownsville," ""Texas""",68.75
+Mesquite," ""Texas""",75
+McKinney," ""Texas""",18.75
+McAllen," ""Texas""",35.71428571
+Orem," ""Utah""",33.33333333
+Ogden," ""Utah""",0
+Haverhill," ""Massachusetts""",50
+Beverly," ""Massachusetts""",0
+Medford," ""Massachusetts""",0
+Woburn," ""Massachusetts""",50
+Norwalk," ""Connecticut""",30
+East Providence," ""Rhode Island""",50
+Woonsocket," ""Rhode Island""",100
+Venice," ""Florida""",16.66666667
+Columbia," ""Missouri""",25
+Napa," ""California""",37.5
+Jonesboro," ""Arkansas""",50
+Marion," ""Arkansas""",75
+Cabot," ""Arkansas""",25
+Russellville," ""Arkansas""",50
+Bullhead City," ""Arizona""",50
+Texarkana," ""Arkansas""",50
+Rogers," ""Arkansas""",12.5
+Dothan," ""Alabama""",62.5
+Fort Smith," ""Arkansas""",25
+Tuscaloosa," ""Alabama""",40
+Fairbanks," ""Alaska""",10
+Van Buren," ""Arkansas""",50
+Kingman," ""Arizona""",75
+Florence," ""Alabama""",50
+Yuma," ""Arizona""",45
+Flagstaff," ""Arizona""",18.75
+Palmer," ""Alaska""",0
+Huntsville," ""Alabama""",25
+Mobile," ""Alabama""",57.14285714
+Maricopa," ""Arizona""",50
+Murfreesboro," ""Arkansas""",37.5
+Sierra Vista," ""Arizona""",30
+Seward," ""Alaska""",0
+Hot Springs," ""Arkansas""",0
+Prescott," ""Arizona""",25
+Wasilla," ""Alaska""",33.33333333
+Kodiak," ""Alaska""",25
+Shreveport," ""Louisiana""",91.66666667
+Gresham," ""Oregon""",0
+Beaverton," ""Oregon""",6.25
+Savannah," ""Georgia""",52.08333333
+Sugar Land," ""Texas""",37.5
+Greeley," ""Colorado""",0
+Waukesha," ""Wisconsin""",50
+Appleton," ""Wisconsin""",25
+Eau Claire," ""Wisconsin""",33.33333333
+Charlottesville," ""Virginia""",58.33333333
+Beverly Hills," ""California""",0
+Yonkers," ""New York""",50
+Niagara Falls," ""New York""",50
+Waco," ""Texas""",68.75
+Frisco," ""Texas""",29.16666667
+Beaumont," ""Texas""",87.5
+Denton," ""Texas""",37.5
+Midland," ""Texas""",100
+Round Rock," ""Texas""",0
+Wichita Falls," ""Texas""",43.75
+Odessa," ""Texas""",50
+Lafayette," ""Louisiana""",0
+Oyster Bay," ""New York""",25
+Roy," ""Utah""",50
+Sioux Falls," ""South Dakota""",32.14285714
+Hanover," ""New Hampshire""",50
+Springfield," ""Missouri""",42.30769231
+Galveston," ""Texas""",50
+Abingdon," ""Virginia""",50
+Camden," ""New Jersey""",50
+Hoboken," ""New Jersey""",62.5
+Livermore," ""California""",54.16666667
+Atlantic City," ""New Jersey""",37.5
+Allentown," ""Pennsylvania""",75
+Grants Pass," ""Oregon""",75
+Zanesville," ""Ohio""",85
+Brookhaven," ""Georgia""",75
+Santa Cruz," ""California""",34.61538462
+Santa Clara," ""California""",35
+Santa Barbara," ""California""",56.25
+Akron," ""Ohio""",83.33333333
+West Palm Beach," ""Florida""",66.66666667
+Fort Lauderdale," ""Florida""",42.10526316
+Billings," ""Montana""",40
+West Lafayette," ""Indiana""",75
+Crescent City," ""California""",0
+Kalamazoo," ""Michigan""",53.57142857
+San Mateo," ""California""",20
+Yuba City," ""California""",50
+Passaic," ""New Jersey""",75
+Eugene," ""Oregon""",36.25
+Wilmington," ""Delaware""",87.5
+Poughkeepsie," ""New York""",12.5
+Puyallup," ""Washington""",25
+Rancho Palos Verdes," ""California""",25
+Augusta," ""Georgia""",33.33333333
+Grand Rapids," ""Michigan""",44.44444444
+Grapevine," ""Texas""",100
+Knoxville," ""Tennessee""",51.78571429
+Belvidere," ""Illinois""",25
+Chattanooga," ""Tennessee""",61.53846154
+Spokane," ""Washington""",25
+Missoula," ""Montana""",22.91666667
+Boulder," ""Colorado""",47.91666667
+Tacoma," ""Washington""",50
+Modesto," ""California""",54.54545455
+Aspen," ""Colorado""",50
+Vallejo," ""California""",50
+Thousand Oaks," ""California""",20.83333333
+Sunnyvale," ""California""",55.55555556
+Oxnard," ""California""",0
+Santa Rosa," ""California""",29.54545455
+Rapid City," ""South Dakota""",37.5
+Binghamton," ""New York""",62.5
+Bellevue," ""Washington""",19.44444444
+Fayetteville," ""Arkansas""",20
+Macon," ""Georgia""",50
+Walla Walla," ""Washington""",0
+Casper," ""Wyoming""",33.33333333
+Redmond," ""Washington""",33.33333333
+Peoria," ""Illinois""",29.16666667
+Aberdeen," ""Washington""",0
+Rockford," ""Illinois""",60
+Vancouver," ""Washington""",29.80769231
+Erie," ""Pennsylvania""",100
+Hollywood," ""Florida""",37.5
+Aberdeen," ""South Dakota""",83.33333333
+Reading," ""Pennsylvania""",50
+Brunswick," ""Vermont""",37.5
+Columbus," ""Georgia""",45
+Mission," ""Texas""",0
+Huntington," ""West Virginia""",25
+Kingsport," ""Tennessee""",93.75
+Naperville," ""Illinois""",12.5
+Clearwater," ""Florida""",35.71428571
+Clifton," ""New Jersey""",0
+Naples," ""Florida""",30.76923077
+Newport Beach," ""California""",25
+Scranton," ""Pennsylvania""",41.66666667
+Albany," ""Georgia""",16.66666667
+Duluth," ""Georgia""",0
+Blacksburg," ""Virginia""",0
+Newport," ""New Hampshire""",0
+Middletown," ""New York""",25
+Joplin," ""Missouri""",18.75
+Lancaster," ""Pennsylvania""",45
+Pocatello," ""Idaho""",87.5
+Simi Valley," ""California""",25
+Fairfield," ""California""",37.5
+Bangor," ""Maine""",12.5
+Rockville," ""Maryland""",50
+Laramie," ""Wyoming""",0
+Parkersburg," ""West Virginia""",100
+Fayetteville," ""North Carolina""",66.66666667
+Schenectady," ""New York""",50
+Newport News," ""Virginia""",62.5
+Holland," ""Indiana""",75
+Adelanto," ""California""",50
+Goldsboro," ""North Carolina""",100
+Chester," ""Pennsylvania""",50
+El Cajon," ""California""",25
+Pembroke Pines," ""Florida""",75
+Adrian," ""Georgia""",87.5
+Escondido," ""California""",12.5
+Farmville," ""North Carolina""",25
+Hattiesburg," ""Mississippi""",41.66666667
+Des Plaines," ""Illinois""",50
+Paradise," ""California""",50
+Everett," ""Washington""",32.14285714
+Columbia," ""Maryland""",25
+Temple," ""Texas""",0
+Bellingham," ""Washington""",30
+Chico," ""California""",50
+Alton," ""Illinois""",75
+Amargosa Valley," ""Nevada""",100
+Grand Island," ""Nebraska""",0
+Kenosha," ""Wisconsin""",12.5
+White Plains," ""New York""",62.5
+Urbana," ""Illinois""",12.5
+Cape Coral," ""Florida""",25
+Great Falls," ""Montana""",25
+Ames," ""Iowa""",50
+Spanish Fork," ""Utah""",0
+Logan," ""Utah""",0
+Tooele," ""Utah""",50
+Farmington," ""Utah""",50
+Lewiston," ""Utah""",0
+Berkeley," ""California""",36.11111111
+Ann Arbor," ""Michigan""",51.78571429
+Pasadena," ""California""",20
+Key West," ""Florida""",0
+Duluth," ""Minnesota""",25
+Glendale," ""California""",45.83333333
+San Bernardino," ""California""",50
+Pensacola," ""Florida""",53.125
+Cedar Rapids," ""Iowa""",25
+Evansville," ""Indiana""",37.5
+Kansas City," ""Kansas""",31.25
+Rochester," ""Minnesota""",62.5
+Mountain View," ""California""",33.33333333
+Pomona," ""California""",75
+South Bend," ""Indiana""",33.33333333
+Minot," ""North Dakota""",75
+Monterey," ""California""",34.375
+Iowa City," ""Iowa""",37.5
+St. Augustine," ""Florida""",62.5
+Gainesville," ""Florida""",34.375
+Palm Springs," ""California""",87.5
+Salinas," ""California""",50
+Ontario," ""California""",25
+Eureka," ""California""",0
+Oceanside," ""California""",75
+Palmdale," ""California""",50
+Torrance," ""California""",0
+Sioux City," ""Iowa""",50
+Bloomington," ""Indiana""",55
+Ventura," ""California""",35
+Concord," ""California""",12.5
+Flint," ""Michigan""",87.5
+Gulfport," ""Mississippi""",0
+Daytona Beach," ""Florida""",46.42857143
+Biloxi," ""Mississippi""",50
+Fort Collins," ""Colorado""",35
+Alameda," ""California""",37.5
+Carlsbad," ""California""",25
+Hayward," ""California""",25
+Fontana," ""California""",35
+Santa Clarita," ""California""",31.25
+Canton," ""Ohio""",25
+Roseville," ""California""",40
+Anderson," ""Indiana""",25
+Sarasota," ""Florida""",25
+Williamsburg," ""Virginia""",0
+Winchester," ""Virginia""",50
+Terre Haute," ""Indiana""",12.5
+Walnut Creek," ""California""",8.333333333
+Lawrence," ""Kansas""",50
+Owensboro," ""Kentucky""",66.66666667
+Carson," ""California""",100
+Corona," ""California""",37.5
+Lancaster," ""California""",12.5
+Fullerton," ""California""",25
+Victorville," ""California""",50
+Antioch," ""California""",75
+Redding," ""California""",45.83333333
+Rancho Cucamonga," ""California""",16.66666667
+El Centro," ""California""",66.66666667
+Visalia," ""California""",75
+Idaho Falls," ""Idaho""",16.66666667
+Tyler," ""Texas""",45.83333333
+Merced," ""California""",50
+Costa Mesa," ""California""",40
+Yakima," ""Washington""",31.25
+Coeur d'Alene," ""Idaho""",50
+Moscow," ""Idaho""",62.5
+Overland Park," ""Kansas""",16.66666667
+Lewiston," ""Maine""",50
+Lawton," ""Oklahoma""",50
+Redwood City," ""California""",0
+Coral Springs," ""Florida""",50
+Decatur," ""Illinois""",37.5
+Mission Viejo," ""California""",75
+Fort Myers," ""Florida""",85
+Albany," ""Oregon""",12.5
+Encinitas," ""California""",12.5
+Alexandria," ""Minnesota""",25
+Twin Falls," ""Idaho""",75
+Merrillville," ""Indiana""",50
+Ankeny," ""Iowa""",50
+Bozeman," ""Montana""",5.555555556
+Greenville," ""South Carolina""",18.33333333
+New Braunfels," ""Texas""",31.25
+Pittsfield," ""Illinois""",50
+Wheaton," ""Illinois""",0
+Macomb," ""Illinois""",0
+McHenry," ""Illinois""",75
+Lockport," ""Illinois""",0
+Quincy," ""Illinois""",25
+Corning," ""New York""",37.5
+Crystal Lake," ""Illinois""",25
+Bloomington," ""Illinois""",25
+Collinsville," ""Illinois""",25
+Rock Island," ""Illinois""",50
+Champaign," ""Illinois""",33.33333333
+Mount Vernon," ""Illinois""",0
+Burlington," ""Iowa""",37.5
+DeKalb," ""Illinois""",50
+Bradenton," ""Florida""",42.85714286
+Hazel Park," ""Michigan""",25
+Kissimmee," ""Florida""",68.75
+Fort Pierce," ""Florida""",0
+Deerfield Beach," ""Florida""",36.11111111
+Paso Robles," ""California""",75
+Germantown," ""Tennessee""",25
+Florence," ""South Carolina""",50
+Yucaipa," ""California""",75
+East Chicago," ""Indiana""",50
+Lorain," ""Ohio""",50
+Palm Coast," ""Florida""",55
+Fairfax," ""South Carolina""",28.84615385
+Apple Valley," ""California""",0
+Thomasville," ""North Carolina""",50
+High Point," ""North Carolina""",12.5
+Norwich," ""Connecticut""",50
+San Rafael," ""California""",0
+Lafayette," ""Indiana""",56.25
+Lakeland," ""Florida""",45
+Barrington," ""Rhode Island""",25
+Santa Maria," ""California""",75
+Asheville," ""North Carolina""",48
+Gainesville," ""Georgia""",50
+Morgantown," ""West Virginia""",75
+Atascadero," ""California""",100
+Citrus Heights," ""California""",50
+Wilmington," ""North Carolina""",50
+Tupelo," ""Mississippi""",25
+Perry," ""Georgia""",50
+Davis," ""California""",25
+College Park," ""Maryland""",0
+Bend," ""Oregon""",0
+Chapel Hill," ""North Carolina""",41.66666667
+Pueblo," ""Colorado""",50
+Clinton," ""Iowa""",50
+Renton," ""Washington""",16.66666667
+Highland," ""California""",100
+Bowling Green," ""Kentucky""",100
+Bremerton," ""Washington""",25
+College Station," ""Texas""",35
+Ashland," ""Ohio""",8.333333333
+Greensburg," ""Pennsylvania""",50
+St. Cloud," ""Minnesota""",0
+Butte," ""North Dakota""",56.25
+Farmington," ""Connecticut""",50
+New Rochelle," ""New York""",25
+Pleasanton," ""California""",0
+Corvallis," ""Oregon""",50
+Lake Forest," ""California""",0
+Gaithersburg," ""Maryland""",12.5
+Easton," ""Maryland""",50
+Hyattsville," ""Maryland""",75
+Fairfield," ""Connecticut""",62.5
+Trumbull," ""Connecticut""",25
+Laurel," ""Maryland""",50
+Athens," ""Ohio""",0
+Hagerstown," ""Maryland""",50
+Salisbury," ""Maryland""",0
+Georgetown," ""Delaware""",50
+Milton," ""Delaware""",100
+Richmond," ""Kentucky""",47.36842105
+Keene," ""New Hampshire""",50
+Johnson City," ""Tennessee""",20
+Spartanburg," ""South Carolina""",25
+Victoria," ""Texas""",25
+Banning," ""California""",50
+Barnstable," ""Massachusetts""",75
+Bartlesville," ""Oklahoma""",75
+Baytown," ""Texas""",50
+Beaufort," ""North Carolina""",75
+Beckley," ""West Virginia""",50
+Belmont," ""California""",25
+Bentonville," ""Arkansas""",0
+York," ""Pennsylvania""",75
+Delray Beach," ""Florida""",0
+Newport," ""Oregon""",75
+Grass Valley," ""California""",62.5
+Mount Vernon," ""New York""",50
+Medford," ""Oregon""",25
+Ukiah," ""California""",50
+Dublin," ""California""",0
+Ojai," ""California""",50
+Wheeling," ""West Virginia""",75
+Temecula," ""California""",27.77777778
+Murrieta," ""California""",25
+Indio," ""California""",25
+Myrtle Beach," ""South Carolina""",50
+Redondo Beach," ""California""",37.5
+Kent," ""Washington""",0
+Texarkana," ""Texas""",75
+Kennewick," ""Washington""",20
+Camarillo," ""California""",0
+Kearney," ""Nebraska""",75
+Klamath Falls," ""Oregon""",62.5
+Roseburg," ""Oregon""",40
+Danville," ""California""",75
+North Charleston," ""South Carolina""",50
+Oroville," ""California""",0
+Madera," ""California""",50
+Glendora," ""California""",25
+Panama City," ""Florida""",37.5
+Longview," ""Texas""",75
+Cary," ""North Carolina""",62.5
+Hamilton," ""Ohio""",50
+Marietta," ""Georgia""",10
+Stillwater," ""Oklahoma""",50
+Kalispell," ""Montana""",0
+Livonia," ""Michigan""",25
+Montclair," ""California""",0
+Manhattan," ""Kansas""",0
+Yucca Valley," ""California""",50
+Lake Charles," ""Louisiana""",60
+Huntsville," ""Texas""",50
+Moss Point," ""Mississippi""",50
+Verona," ""Mississippi""",50
+Olive Branch," ""Mississippi""",0
+Harlingen," ""Texas""",0
+Valparaiso," ""Indiana""",50
+Jackson," ""Wyoming""",50
+Loveland," ""Colorado""",35
+Bloomfield Hills," ""Michigan""",100
+Boone," ""North Carolina""",50
+Bowling Green," ""Ohio""",16.66666667
+Boynton Beach," ""Florida""",50
+Brainerd," ""Minnesota""",50
+Branson," ""Missouri""",0
+Brattleboro," ""Vermont""",50
+Breckenridge," ""Colorado""",25
+Kokomo," ""Indiana""",25
+Sandpoint," ""Idaho""",0
+Wisconsin Dells," ""Wisconsin""",50
+Albert Lea," ""Minnesota""",25
+Corcoran," ""California""",50
+Bridgeton," ""New Jersey""",50
+Tustin," ""California""",37.5
+Ocala," ""Florida""",32.5
+Gillette," ""Wyoming""",50
+San Angelo," ""Texas""",37.5
+Pinehurst," ""Georgia""",0
+Imperial," ""California""",50
+Largo," ""Florida""",75
+Muncie," ""Indiana""",50
+Elmira," ""New York""",25
+Laurel," ""Mississippi""",50
+La Crosse," ""Wisconsin""",50
+Franklin," ""Massachusetts""",12.5
+Elizabethtown," ""Kentucky""",0
+Selah," ""Washington""",25
+Lake Elsinore," ""California""",75
+Aliso Viejo," ""California""",75
+Melbourne," ""Florida""",39.28571429
+Muskegon," ""Michigan""",50
+Safety Harbor," ""Florida""",75
+Marshall," ""Missouri""",50
+Rolla," ""Missouri""",25
+Taos," ""Missouri""",75
+Libby," ""Montana""",25
+Crown Point," ""Indiana""",25
+Wenatchee," ""Washington""",0
+Liberty," ""Missouri""",50
+Chesterfield," ""Missouri""",37.5
+O'Fallon," ""Missouri""",100
+Youngstown," ""New York""",58.33333333
+Forsyth," ""Montana""",100
+Rock Hill," ""South Carolina""",62.5
+Morristown," ""New Jersey""",100
+Leesburg," ""Georgia""",50
+Oshkosh," ""Nebraska""",75
+Brentwood," ""Missouri""",0
+Cape Canaveral," ""Florida""",0
+Clayton," ""Missouri""",50
+Vero Beach," ""Florida""",62.5
+Lawrenceville," ""Georgia""",0
+Weatherford," ""Texas""",0
+Del Rio," ""Texas""",25
+Warrenton," ""Virginia""",0
+Mansfield," ""Texas""",0
+Jeffersonville," ""Indiana""",50
+Lake Worth," ""Texas""",100
+Katy," ""Texas""",50
+McLean," ""Texas""",25
+Leander," ""Texas""",0
+San Marcos," ""Texas""",0
+League City," ""Texas""",25
+Pullman," ""Washington""",0
+Mansfield," ""Ohio""",25
+Fort Dodge," ""Iowa""",75
+Lakeville," ""Minnesota""",50
+Titusville," ""Florida""",25
+Lakewood," ""Washington""",75
+Longview," ""Washington""",75
+Oxford," ""Mississippi""",0
+Lima," ""Ohio""",50
+Fort Walton Beach," ""Florida""",50
+Paducah," ""Kentucky""",62.5
+Coon Rapids," ""Minnesota""",50
+Traverse City," ""Michigan""",25
+Rocklin," ""California""",0
+Sheboygan," ""Wisconsin""",0
+Marina," ""California""",50
+Sebring," ""Florida""",50
+Alexandria," ""Louisiana""",50
+Jackson," ""Tennessee""",12.5
+Eden Prairie," ""Minnesota""",8.333333333
+Clovis," ""New Mexico""",100
+Fond du Lac," ""Wisconsin""",75
+New Port Richey," ""Florida""",0
+Jupiter," ""Florida""",25
+Jacksonville," ""North Carolina""",0
+Lebanon," ""Ohio""",50
+Slidell," ""Louisiana""",100
+Torrington," ""Wyoming""",75
+Longmont," ""Colorado""",75
+East Orange," ""New Jersey""",75
+Foster City," ""California""",0
+Statesboro," ""Georgia""",41.66666667
+DeLand," ""Florida""",25
+Grand Junction," ""Colorado""",18.75
+North Platte," ""Nebraska""",25
+Troy," ""Michigan""",25
+Weston," ""Florida""",0
+Mesquite," ""Nevada""",0
+Novi," ""Michigan""",0
+Brunswick," ""Georgia""",37.5
+Long Branch," ""New Jersey""",25
+Monroe," ""Michigan""",25
+Dalton," ""Georgia""",25
+Summit," ""New Jersey""",62.5
+Hilton Head Island," ""South Carolina""",25
+New Bern," ""North Carolina""",50
+Alpharetta," ""Georgia""",37.5
+Radcliff," ""Kentucky""",50
+Cumming," ""Georgia""",41.66666667
+Ironton," ""Ohio""",50
+Midland," ""Michigan""",33.33333333
+Valdosta," ""Georgia""",50
+Hobbs," ""New Mexico""",50
+Langley," ""Washington""",0
+Durango," ""Colorado""",0
+Farmington," ""New Mexico""",50
+Williamsport," ""Pennsylvania""",0
+Sheridan," ""Wyoming""",12.5
+Rochester," ""Michigan""",0
+Fairborn," ""Ohio""",50
+Ypsilanti," ""Michigan""",66.66666667
+Lisle," ""Illinois""",0
+Pottsville," ""Pennsylvania""",0
+Concord," ""North Carolina""",62.5
+Watertown," ""South Dakota""",50
+Moses Lake," ""Washington""",0
+Johnstown," ""Pennsylvania""",75
+Bloomsburg," ""Pennsylvania""",25
+Hazard," ""Kentucky""",50
+New Castle," ""Pennsylvania""",50
+Anderson," ""South Carolina""",0
+Warren," ""Pennsylvania""",50
+Woodland," ""Washington""",0
+Ashland," ""Massachusetts""",50
+Rocky Mount," ""Virginia""",75
+Herndon," ""Virginia""",25
+Amherst," ""Virginia""",50
+Christiansburg," ""Virginia""",100
+Watertown," ""New York""",37.5
+Spring Hill," ""Tennessee""",25
+Airway Heights," ""Washington""",0
+Yelm," ""Washington""",50
+Sequim," ""Washington""",25
+Brier," ""Washington""",0
+Goose Creek," ""South Carolina""",0
+Waterloo," ""Wisconsin""",50
+Neenah," ""Wisconsin""",0
+Hempstead," ""New York""",50
+Smithtown," ""New York""",50
+Plymouth," ""Michigan""",50
+Islip," ""New York""",25
+Woodburn," ""Oregon""",0
+Ponca City," ""Oklahoma""",50
+Portsmouth," ""Rhode Island""",0
+Zeeland," ""Michigan""",0
+Roanoke," ""Indiana""",35.71428571
+Weirton," ""West Virginia""",50
+Detroit Lakes," ""Minnesota""",50
+Waterford," ""Connecticut""",50
+Deltona," ""Florida""",75
+Morehead," ""Kentucky""",25
+Birmingham," ""Iowa""",31.66666667
+Waldorf," ""Minnesota""",75
+Leawood," ""Kansas""",75
+Lakeport," ""California""",50
+Jackson," ""California""",50
+Upland," ""Indiana""",50
+Elko," ""South Carolina""",25
+Cutler Bay," ""Florida""",25
+Greenville," ""North Carolina""",25
+Vadnais Heights," ""Minnesota""",50
+Hinesville," ""Georgia""",25
+Abington," ""Massachusetts""",50
+Williston," ""North Dakota""",75
+Fairmont," ""West Virginia""",50
+Warner Robins," ""Georgia""",37.5
+Elkhart," ""Indiana""",50
+Frankfort," ""Indiana""",75
+La Porte," ""Indiana""",50
+Sanford," ""North Carolina""",50
+Spruce Pine," ""North Carolina""",0
+Yanceyville," ""North Carolina""",50
+Mooresville," ""North Carolina""",25
+Hope Mills," ""North Carolina""",50
+Hickory," ""North Carolina""",50
+Bryson City," ""North Carolina""",50
+Buffalo," ""North Dakota""",50
+Beaver Dam," ""Kentucky""",50
+Chesterfield," ""South Carolina""",25
+Stone Mountain," ""Georgia""",100
+Astoria," ""Illinois""",62.5
+Ellsworth," ""Maine""",50
+Swampscott," ""Massachusetts""",50
+Seminole," ""Florida""",0
+Zephyrhills," ""Florida""",50
+California," ""Kentucky""",100
+Gettysburg," ""South Dakota""",75
+Beloit," ""Kansas""",62.5
+Willoughby," ""Ohio""",0
+Mansfield," ""Georgia""",50
+Ithaca," ""Michigan""",40.625
+Wayne," ""West Virginia""",50
+Bourne," ""Massachusetts""",25
+Longmeadow," ""Massachusetts""",25
+Owosso," ""Michigan""",100
+Amherst," ""New Hampshire""",50
+Hampton," ""South Carolina""",50
+Oakland," ""Tennessee""",0
+Arlington," ""Kansas""",16.66666667
+Lewisburg," ""Tennessee""",50
+Clarksville," ""Indiana""",0
+Ashburn," ""Georgia""",25
+Franklin," ""West Virginia""",0
+Decatur," ""Tennessee""",100
+Bridgewater," ""Connecticut""",50
+Cookeville," ""Tennessee""",50
+Peachtree City," ""Georgia""",50
+Syracuse," ""Indiana""",50
+Mandeville," ""Louisiana""",75
+Lynchburg," ""South Carolina""",0
+Holderness," ""New Hampshire""",50
+Long Island," ""Kansas""",25
+Yreka," ""California""",50
+Tyngsborough," ""Massachusetts""",50
+Huntingdon," ""Tennessee""",50
+Seaside," ""Oregon""",0
+Pooler," ""Georgia""",25
+Edison," ""Georgia""",25
+Topsham," ""Maine""",50
+Frederick," ""South Dakota""",33.33333333
+Manistee," ""Michigan""",50
+Allegan," ""Michigan""",0
+Richland," ""Oregon""",0
+Rumford," ""Maine""",50
+Pikeville," ""Kentucky""",50
+Douglasville," ""Georgia""",75
+Chesapeake," ""West Virginia""",37.5
+Brandon," ""Vermont""",0
+Yorkville," ""Tennessee""",0
+Fredericksburg," ""Indiana""",25
+Utica," ""Indiana""",37.5
+Manassas," ""Georgia""",0
+Gadsden," ""Tennessee""",75
+Rutherford," ""Tennessee""",100
+Willimantic," ""Maine""",50
+Middlesex," ""Vermont""",50
+Somerset," ""Vermont""",50
+Carlisle," ""New York""",50
+New Windsor," ""New York""",50
+Taylor," ""New York""",50
+New Paltz," ""New York""",50
+Webster," ""New York""",50
+Germantown," ""New York""",0
+Princeton," ""Massachusetts""",25
+Bath," ""New York""",50
+Dickinson," ""New York""",50
+Gainesville," ""New York""",25
+Lafayette," ""Wisconsin""",12.5
+Wausau," ""Wisconsin""",25
+Nantucket," ""Massachusetts""",50
+Arlington," ""Virginia""",19.23076923

@@ -1,0 +1,94 @@
+﻿city,max water temperature F ,average water temperature F,min water temperature F,max water temperature C ,average water temperature C,min water temperature C,Population, Region, WaterPollution
+anchorage, 39.7°F, 36.9°F, 34.1°F, 4.3°C , 2.7°C , 1.2°C ,247949," ""Alaska""",18.75
+atlantic city, 53°F, 46.4°F, 39.8°F, 11.7°C , 8°C , 4.4°C ,237054," ""New Jersey""",37.5
+baltimore, 53°F, 48.7°F, 44.5°F, 11.7°C , 9.3°C , 7°C ,2106068," ""Maryland""",64.13043478
+bellingham, 46.6°F, 45°F, 43.3°F, 8.1°C , 7.2°C , 6.3°C ,130641," ""Washington""",30
+boca raton, 80.7°F, 77°F, 73.3°F, 27.1°C , 25°C , 23°C ,99805," ""Florida""",34.61538462
+boston, 45.8°F, 41.9°F, 38°F, 7.7°C , 5.5°C , 3.4°C ,4688346," ""Massachusetts""",32.91139241
+bridgeport, 47.8°F, 43.2°F, 38.5°F, 8.8°C , 6.2°C , 3.6°C ,924449," ""Connecticut""",66.66666667
+brooklyn, 51.3°F, 45.1°F, 39°F, 10.7°C , 7.3°C , 3.9°C ,2559903," ""New York""",33.65384615
+buffalo, 43.2°F, 39°F, 34.9°F, 6.2°C , 3.9°C , 1.6°C ,914341," ""New York""",36.95652174
+buffalo, 43.2°F, 39°F, 34.9°F, 6.2°C , 3.9°C , 1.6°C ,914341," ""North Dakota""",50
+cape coral, 79.1°F, 74.3°F, 69.5°F, 26.2°C , 23.5°C , 20.9°C ,668382," ""Florida""",25
+carlsbad, 62.2°F, 59.5°F, 56.9°F, 16.8°C , 15.3°C , 13.9°C ,115382," ""California""",25
+charleston, 71.3°F, 65.3°F, 59.3°F, 21.9°C , 18.5°C , 15.2°C ,628377," ""West Virginia""",50
+charleston, 71.3°F, 65.3°F, 59.3°F, 21.9°C , 18.5°C , 15.2°C ,628377," ""South Carolina""",57.69230769
+chesapeake, 63.1°F, 57.6°F, 52°F, 17.3°C , 14.2°C , 11.1°C ,244835," ""West Virginia""",37.5
+chicago, 45.2°F, 40.8°F, 36.4°F, 7.4°C , 4.9°C , 2.5°C ,8604203," ""Illinois""",53.62068966
+chula vista, 62.2°F, 60.6°F, 59.1°F, 16.8°C , 15.9°C , 15.1°C ,274492," ""California""",75
+clearwater, 78.3°F, 73°F, 67.8°F, 25.7°C , 22.8°C , 19.9°C ,116946," ""Florida""",35.71428571
+cleveland, 45.5°F, 39.7°F, 34°F, 7.5°C , 4.3°C , 1.1°C ,1710093," ""Ohio""",54.54545455
+corpus christi, 78.7°F, 72.1°F, 65.6°F, 26°C , 22.3°C , 18.7°C ,342464," ""Texas""",68.18181818
+daytona beach, 75.9°F, 70.9°F, 65.8°F, 24.4°C , 21.6°C , 18.8°C ,69186," ""Florida""",46.42857143
+detroit, 43.1°F, 38.8°F, 34.6°F, 6.2°C , 3.8°C , 1.5°C ,3506126," ""Michigan""",52.08333333
+erie, 42.6°F, 37.9°F, 33.3°F, 5.9°C , 3.3°C , 0.7°C ,184484," ""Pennsylvania""",100
+everett, 47.4°F, 45.7°F, 44°F, 8.6°C , 7.6°C , 6.7°C ,111475," ""Washington""",32.14285714
+fall river, 50.3°F, 44.1°F, 37.9°F, 10.2°C , 6.7°C , 3.3°C ,89541," ""Massachusetts""",50
+fort lauderdale, 81.1°F, 77.4°F, 73.7°F, 27.3°C , 25.2°C , 23.2°C ,182437," ""Florida""",42.10526316
+fort myers, 79.1°F, 75°F, 71°F, 26.2°C , 23.9°C , 21.7°C ,87103," ""Florida""",85
+fremont, 55.9°F, 52.9°F, 49.9°F, 13.3°C , 11.6°C , 10°C ,241110," ""California""",15
+galveston, 78.1°F, 71.2°F, 64.4°F, 25.6°C , 21.8°C , 18°C ,46514," ""Texas""",50
+green bay, 41°F, 39°F, 37°F, 5°C , 3.9°C , 2.8°C ,207557," ""Wisconsin""",50
+hampton, 63.1°F, 57.6°F, 52°F, 17.3°C , 14.2°C , 11.1°C ,855569," ""South Carolina""",50
+hollywood, 81.1°F, 77.7°F, 74.3°F, 27.3°C , 25.4°C , 23.5°C ,154817," ""Florida""",37.5
+honolulu, 78.8°F, 76.5°F, 74.1°F, 26°C , 24.7°C , 23.4°C ,820987," ""Hawaii""",41.51785714
+huntington beach, 62.4°F, 59.2°F, 55.9°F, 16.9°C , 15.1°C , 13.3°C ,199223," ""California""",65.625
+jacksonville, 73.8°F, 67.8°F, 61.9°F, 23.2°C , 19.9°C , 16.6°C ,1181496," ""Florida""",66.21621622
+jacksonville, 73.8°F, 67.8°F, 61.9°F, 23.2°C , 19.9°C , 16.6°C ,1181496," ""North Carolina""",0
+jersey city, 49.6°F, 44.4°F, 39.2°F, 9.8°C , 6.9°C , 4°C ,262075," ""New Jersey""",60
+juneau, 43.1°F, 40.8°F, 38.6°F, 6.2°C , 4.9°C , 3.7°C ,25085," ""Alaska""",25
+jupiter, 80.7°F, 77°F, 73.3°F, 27.1°C , 25°C , 23°C ,65791," ""Florida""",25
+kenosha, 41.5°F, 38.8°F, 36.2°F, 5.3°C , 3.8°C , 2.4°C ,124972," ""Wisconsin""",12.5
+key west, 81.1°F, 77.7°F, 74.3°F, 27.3°C , 25.4°C , 23.5°C ,31401," ""Florida""",0
+long beach, 61.9°F, 58.6°F, 55.4°F, 16.6°C , 14.8°C , 13°C ,462628," ""California""",32.69230769
+los angeles, 61.9°F, 58.6°F, 55.4°F, 16.6°C , 14.8°C , 13°C ,12750807," ""California""",61.29943503
+manhattan, 51.3°F, 45.1°F, 39°F, 10.7°C , 7.3°C , 3.9°C ,1628706," ""Kansas""",0
+miami, 81.1°F, 77.7°F, 74.3°F, 27.3°C , 25.4°C , 23.5°C ,6445545," ""Florida""",47.36842105
+milwaukee, 41.5°F, 38.8°F, 36.2°F, 5.3°C , 3.8°C , 2.4°C ,1365787," ""Wisconsin""",43.29268293
+mobile, 77°F, 70.9°F, 64.8°F, 25°C , 21.6°C , 18.2°C ,315502," ""Alabama""",57.14285714
+monterey, 56.7°F, 53.8°F, 50.9°F, 13.7°C , 12.1°C , 10.5°C ,59669," ""California""",34.375
+myrtle beach, 70.1°F, 64°F, 58°F, 21.2°C , 17.8°C , 14.5°C ,275579," ""South Carolina""",50
+nantucket, 49.4°F, 43.9°F, 38.4°F, 9.7°C , 6.6°C , 3.6°C ,11101," ""Massachusetts""",50
+naples, 79.1°F, 75°F, 71°F, 26.2°C , 23.9°C , 21.7°C ,972212," ""Florida""",30.76923077
+new bedford, 50.2°F, 44.1°F, 37.9°F, 10.1°C , 6.7°C , 3.3°C ,149910," ""Massachusetts""",75
+new haven, 48.2°F, 43.3°F, 38.5°F, 9°C , 6.3°C , 3.6°C ,564830," ""Connecticut""",37.5
+new york city, 49.6°F, 44.4°F, 39.2°F, 9.8°C , 6.9°C , 4°C ,Population data not available," ""New York""",49.5049505
+newark, 49.6°F, 44.4°F, 39.2°F, 9.8°C , 6.9°C , 4°C ,282011," ""New Jersey""",62.5
+newport, 50.3°F, 44.1°F, 37.9°F, 10.2°C , 6.7°C , 3.3°C ,179225," ""New Hampshire""",0
+newport, 50.3°F, 44.1°F, 37.9°F, 10.2°C , 6.7°C , 3.3°C ,179225," ""Oregon""",75
+newport beach, 62.4°F, 59.2°F, 55.9°F, 16.9°C , 15.1°C , 13.3°C ,84534," ""California""",25
+newport news, 63.1°F, 57.6°F, 52°F, 17.3°C , 14.2°C , 11.1°C ,179225," ""Virginia""",62.5
+niagara falls, 42.9°F, 38.3°F, 33.7°F, 6.1°C , 3.5°C , 1°C ,308596," ""New York""",50
+norfolk, 63.1°F, 57.6°F, 52°F, 17.3°C , 14.2°C , 11.1°C ,242742," ""Virginia""",75
+oakland, 55.8°F, 52.5°F, 49.3°F, 13.2°C , 11.4°C , 9.6°C ,433031," ""California""",33.33333333
+oakland, 55.8°F, 52.5°F, 49.3°F, 13.2°C , 11.4°C , 9.6°C ,433031," ""Tennessee""",0
+oceanside, 62.2°F, 59.5°F, 56.9°F, 16.8°C , 15.3°C , 13.9°C ,175742," ""California""",75
+oxnard, 57.9°F, 55.2°F, 52.5°F, 14.4°C , 12.9°C , 11.4°C ,387647," ""California""",0
+pensacola, 75.8°F, 70.3°F, 64.9°F, 24.4°C , 21.3°C , 18.3°C ,346921," ""Florida""",53.125
+philadelphia, 53.2°F, 47.5°F, 41.8°F, 11.8°C , 8.6°C , 5.5°C ,5649300," ""Pennsylvania""",55.64516129
+portsmouth, 63.1°F, 57.6°F, 52°F, 17.3°C , 14.2°C , 11.1°C ,855679," ""Rhode Island""",0
+providence, 50.3°F, 44.1°F, 37.9°F, 10.2°C , 6.7°C , 3.3°C ,1203230," ""Rhode Island""",59.61538462
+redwood city, 55.8°F, 52.5°F, 49.3°F, 13.2°C , 11.4°C , 9.6°C ,85925," ""California""",0
+richmond, 55.8°F, 52.5°F, 49.3°F, 13.2°C , 11.4°C , 9.6°C ,1075798," ""Virginia""",27.63157895
+richmond, 55.8°F, 52.5°F, 49.3°F, 13.2°C , 11.4°C , 9.6°C ,1075798," ""Kentucky""",47.36842105
+rochester, 42.9°F, 38.3°F, 33.7°F, 6.1°C , 3.5°C , 1°C ,703952," ""New York""",47.91666667
+rochester, 42.9°F, 38.3°F, 33.7°F, 6.1°C , 3.5°C , 1°C ,703952," ""Minnesota""",62.5
+rochester, 42.9°F, 38.3°F, 33.7°F, 6.1°C , 3.5°C , 1°C ,703952," ""Michigan""",0
+san diego, 62.2°F, 60.6°F, 59.1°F, 16.8°C , 15.9°C , 15.1°C ,3220118," ""California""",52.36486486
+san francisco, 55.8°F, 52.5°F, 49.3°F, 13.2°C , 11.4°C , 9.6°C ,3592294," ""California""",43
+santa barbara, 57.9°F, 55.2°F, 52.5°F, 14.4°C , 12.9°C , 11.4°C ,202401," ""California""",56.25
+santa cruz, 56.8°F, 54°F, 51.1°F, 13.8°C , 12.2°C , 10.6°C ,3151676," ""California""",34.61538462
+santa monica, 61.9°F, 58.6°F, 55.4°F, 16.6°C , 14.8°C , 13°C ,90401," ""California""",54.16666667
+sarasota, 78.3°F, 73°F, 67.8°F, 25.7°C , 22.8°C , 19.9°C ,722243," ""Florida""",25
+seattle, 47.4°F, 45.7°F, 44°F, 8.6°C , 7.6°C , 6.7°C ,3789215," ""Washington""",36.94852941
+stamford, 52.8°F, 45.9°F, 38.9°F, 11.6°C , 7.7°C , 3.9°C ,129638," ""Connecticut""",54.16666667
+tacoma, 47.4°F, 45.7°F, 44°F, 8.6°C , 7.6°C , 6.7°C ,217827," ""Washington""",50
+tampa, 78.3°F, 73°F, 67.8°F, 25.7°C , 22.8°C , 19.9°C ,2908063," ""Florida""",45.93023256
+titusville, 77.9°F, 74.7°F, 71.4°F, 25.5°C , 23.7°C , 21.9°C ,57891," ""Florida""",25
+toledo, 46.9°F, 40.6°F, 34.4°F, 8.3°C , 4.8°C , 1.4°C ,482111," ""Ohio""",75
+venice, 78.5°F, 73.2°F, 67.9°F, 25.9°C , 22.9°C , 20°C ,261905," ""Florida""",16.66666667
+ventura, 57.9°F, 55.2°F, 52.5°F, 14.4°C , 12.9°C , 11.4°C ,252805," ""California""",35
+virginia beach, 63.2°F, 54.1°F, 45.1°F, 17.4°C , 12.3°C , 7.3°C ,1478868," ""Virginia""",36.66666667
+west palm beach, 80.7°F, 77°F, 73.3°F, 27.1°C , 25°C , 23°C ,111955," ""Florida""",66.66666667
+wilmington, 67.7°F, 61.5°F, 55.3°F, 19.9°C , 16.4°C , 13°C ,255616," ""Delaware""",87.5
+wilmington, 67.7°F, 61.5°F, 55.3°F, 19.9°C , 16.4°C , 13°C ,255616," ""North Carolina""",50
